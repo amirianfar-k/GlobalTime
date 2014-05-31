@@ -1,4 +1,74 @@
-TEST
+Intro
 ====
+Universal Calendars, gregorian julian french indian persian arabic chinese japanse mayan hebrew isoweek gregserial isoday and .... calendars
 
-TEST
+Usage
+====
+d=new Δ.date()
+out=d.gregorian			
+/* 
+	{
+		year: 2014, 
+		month: 5,
+		day:23
+	}	
+*/
+console.log()
+out=d.gregorian.year
+//	2014	
+out="today "+d.gregorian  // d.gregorian.toString() called
+//	today 23/5/2014 	
+d.gregorian.year=1994	  	// set year in gregorian
+d.arabic.year=1994	  		// set year in arabic
+d.persian.year=1994	  		// set year in persian
+
+Calendars
+====
+gregorain
+julian
+persian           - jalali )
+persiana          - Persian Astronomy )
+arabic
+french
+indian
+mayan
+hebrew
+chinese
+japanese
+isoweek
+isoday
+utime             - Unix Time - miliseconds since 1970 )
+excelserial1900   - excel 1900 day serial numbers )
+excelserial1904   - excel 1904 day serial numbers )
+gregserial        - gregorian serial number )
+jd                - Julian Day )
+mjd
+
+gregorian={
+	day: 22,
+	leap: "Normal year",
+	month: 2,
+	monthName: "February",
+	weekday: 0,
+	weekdayName: "Sunday",
+	year: 1998
+}
+
+persian
+====
+•	year: 1391
+•	month: 12
+•	day: 6
+•	weekday: 0
+•	weekdayName: "Yekshanbeh"
+•	monthName: "Esfand"
+•	leap: "Leap year"
+•	hour: "11"
+•	minute: "21"
+•	second: "09"
+•	milliseconds: 0
+•	toString(format)
+•	MonthNames: [] 
+•	weekdays: 
+
+
