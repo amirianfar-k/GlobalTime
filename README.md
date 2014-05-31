@@ -45,7 +45,8 @@ Calendars
 * jd                - Julian Day )
 * mjd
 ```javascript
-gregorian={
+d=new Δ.date()
+d.gregorian={
 	day: 22,
 	leap: "Normal year",
 	month: 2,
@@ -54,4 +55,58 @@ gregorian={
 	weekdayName: "Sunday",
 	year: 1998
 }
-```
+d.arabic={
+	day: 24,
+	leap: "Normal year",
+	month: 10,
+	weekday: 0,
+	weekdayName: "al-'ahad",
+	year: 1418
+}	
+d.french={
+	an: 206,
+	decade: 1,
+	jour: 3,
+	mois: 6,
+	weekday: 0,
+	weekdayName: "ravivara"
+}
+d.indian={
+	day: 3,
+	leap: "Normal year",
+	month: 12,
+	weekday: 0,
+	weekdayName: "ravivara",
+	year: 1919
+}
+d.julian={
+	day: 22,
+	leap: "Normal year",
+	month: 2,
+	monthName: "February",
+	weekday: 0,
+	weekday_text: "Sunday",
+	year: 1998
+}
+d.persian={
+	day: 3,
+	leap: "Normal year",
+	month: 12,
+	monthName: "Esfand",
+	weekday: 0,
+	weekdayName: "Yekshanbeh",
+	year: 1376
+}
+d.persiana={
+	day: 3,
+	leap: "Normal year",
+	month: 12,
+	monthName: "Esfand",
+	weekday: 0,
+	weekdayName: "Yekshanbeh",
+	year: 1376
+}
+
+
+
+
