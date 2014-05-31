@@ -5,7 +5,6 @@ Universal Calendars, gregorian julian french indian persian arabic chinese japan
 
 Usage
 ====
-
 ```javascript
 d=new Δ.date()
 out=d.gregorian			
@@ -28,25 +27,26 @@ d.persian.year=1994	  		// set year in persian
 
 Calendars
 ====
-gregorain
-julian
-persian           - jalali )
-persiana          - Persian Astronomy )
-arabic
-french
-indian
-mayan
-hebrew
-chinese
-japanese
-isoweek
-isoday
-utime             - Unix Time - miliseconds since 1970 )
-excelserial1900   - excel 1900 day serial numbers )
-excelserial1904   - excel 1904 day serial numbers )
-gregserial        - gregorian serial number )
-jd                - Julian Day )
-mjd
+* gregorain
+* julian
+* persian           - jalali )
+* persiana          - Persian Astronomy )
+* arabic
+* french
+* indian
+* mayan
+* hebrew
+* chinese
+* japanese
+* bahai
+* isoweek
+* soday
+* utime             - Unix Time - miliseconds since 1970 )
+* excelserial1900   - excel 1900 day serial numbers )
+* excelserial1904   - excel 1904 day serial numbers )
+* gregserial        - gregorian serial number )
+* jd                - Julian Day )
+* mjd
 
 ```javascript
 gregorian={
