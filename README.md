@@ -1,5 +1,6 @@
 Intro
 ====
+javascript library for date and time with all calendars, timezones and more
 Universal Calendars, gregorian julian french indian persian arabic chinese japanse mayan hebrew isoweek gregserial isoday and .... calendars
 
 Usage
