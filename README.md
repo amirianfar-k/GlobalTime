@@ -20,8 +20,8 @@ out=d.gregorian.year
 out="today "+d.gregorian  // d.gregorian.toString() called
 //	today 23/5/2014 	
 d.gregorian.year=1994	  	// set year in gregorian
-d.arabic.year=1994	  		// set year in arabic
-d.persian.year=1994	  		// set year in persian
+d.arabic.year=1198	  		// set year in arabic
+d.persian.year=1393	  		// set year in persian
 ```
 Calendars
 ====
