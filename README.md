@@ -3,21 +3,21 @@ Intro
 javascript library for date and time with all calendars, timezones and more
 Universal Calendars, gregorian julian french indian persian arabic chinese japanse mayan hebrew isoweek gregserial isoday and more
 
-*fr: Universal Calendriers, grégorien julian indien maya français persan arabe chinois japonais hébreu et plusieurs calendriers
-*de: Universal Kalenders, gregoriaanse julian Frans Indiaas Perzisch Arabisch Chinees Japans hebreeuws Maya en meer agenda
-*gr: Universal-Kalender, gregorianischen julian französisch indisch persisch arabisch chinesisch japanisch hebräisch Maya-Kalender und mehr
-*ch: 通用日历，公历朱利安法国印度波斯语阿拉伯语中国日本希伯来文和玛雅历法更多
-*jp: ユニバーサルカレンダー、グレゴリオ暦フランスインド、ペルシャ、アラビア語中国語日本語ヘブライ語、マヤ、よりカレンダー
-*ar: التقاويم العالمية، جوليان ميلادية الفرنسية الهندية الفارسية العربية الصينية اليابانية والعبرية المايا أكثر التقويمات
-*fa: جهانی تقویم، میلادی میلادی فرانسوی هندی فارسی و عربی چینی مایان عبری ژاپنی و تقویم تر
-*ur: یونیورسل کیلنڈر، جار جیائی جولین فرانسیسی بھارتی فارسی عربی چینی جاپانی عبرانی مایا اور زیادہ کیلنڈر
-*tr: Evrensel Takvimler miladi julian Fransız Hint farsça arapça Çince, Japonca ibranice mayan ve daha takvimler
-*kr: 유니버설 달력, 그레고리오 줄리안 프랑스어 인도 페르시아어 아랍어 중국어 일본어 히브리어 마야 더 캘린더
-*ru: Универсальные Календари, григорианский Джулиан французский индийский персидский Арабский Китайский Японский иврит майя и больше календари
-*sp: Universal calendarios gregoriano, maya julian francés indio persa árabe chino japonés hebreo y más calendarios
-*he: יוניברסל לוחות שנה, המאיה יל ה צרפתית, הודי, פרסית ערבית הסינית יפנית עברית ועוד לוחות שנה
-*az: Universal Təqvimlər, qriqori julian french indian persian arabic chinese japanese hebrew mayan və daha çox təqvimlər
-*in: यूनिवर्सल कैलेंडर, ग्रेगोरी जूलियन फ्रांसीसी भारतीय फारसी अरबी चीनी जापानी यहूदी Mayan और अधिक कैलेंडर
+* fr: Universal Calendriers, grégorien julian indien maya français persan arabe chinois japonais hébreu et plusieurs calendriers
+* de: Universal Kalenders, gregoriaanse julian Frans Indiaas Perzisch Arabisch Chinees Japans hebreeuws Maya en meer agenda
+* gr: Universal-Kalender, gregorianischen julian französisch indisch persisch arabisch chinesisch japanisch hebräisch Maya-Kalender und mehr
+* ch: 通用日历，公历朱利安法国印度波斯语阿拉伯语中国日本希伯来文和玛雅历法更多
+* jp: ユニバーサルカレンダー、グレゴリオ暦フランスインド、ペルシャ、アラビア語中国語日本語ヘブライ語、マヤ、よりカレンダー
+* ar: التقاويم العالمية، جوليان ميلادية الفرنسية الهندية الفارسية العربية الصينية اليابانية والعبرية المايا أكثر التقويمات
+* fa: جهانی تقویم، میلادی میلادی فرانسوی هندی فارسی و عربی چینی مایان عبری ژاپنی و تقویم تر
+* ur: یونیورسل کیلنڈر، جار جیائی جولین فرانسیسی بھارتی فارسی عربی چینی جاپانی عبرانی مایا اور زیادہ کیلنڈر
+* tr: Evrensel Takvimler miladi julian Fransız Hint farsça arapça Çince, Japonca ibranice mayan ve daha takvimler
+* kr: 유니버설 달력, 그레고리오 줄리안 프랑스어 인도 페르시아어 아랍어 중국어 일본어 히브리어 마야 더 캘린더
+* ru: Универсальные Календари, григорианский Джулиан французский индийский персидский Арабский Китайский Японский иврит майя и больше календари
+* sp: Universal calendarios gregoriano, maya julian francés indio persa árabe chino japonés hebreo y más calendarios
+* he: יוניברסל לוחות שנה, המאיה יל ה צרפתית, הודי, פרסית ערבית הסינית יפנית עברית ועוד לוחות שנה
+* az: Universal Təqvimlər, qriqori julian french indian persian arabic chinese japanese hebrew mayan və daha çox təqvimlər
+* in: यूनिवर्सल कैलेंडर, ग्रेगोरी जूलियन फ्रांसीसी भारतीय फारसी अरबी चीनी जापानी यहूदी Mayan और अधिक कैलेंडर
 
 Usage
 ====
