@@ -17,7 +17,7 @@ Universal Calendars, gregorian julian french indian persian arabic chinese japan
 * sp: Universal calendarios gregoriano, maya julian francés indio persa árabe chino japonés hebreo y más calendarios
 * he: יוניברסל לוחות שנה, המאיה יל ה צרפתית, הודי, פרסית ערבית הסינית יפנית עברית ועוד לוחות שנה
 * az: Universal Təqvimlər, qriqori julian french indian persian arabic chinese japanese hebrew mayan və daha çox təqvimlər
-* in: यूनिवर्सल कैलेंडर, ग्रेगोरी जूलियन फ्रांसीसी भारतीय फारसी अरबी चीनी जापानी यहूदी Mayan और अधिक कैलेंडर
+* in: यूनिवर्सल कैलेंडर, ग्रेगोरी जूलियन फ्रांसीसी भारतीय फारसी अरबी चीनी जापानी यहूदी माया और अधिक कैलेंडर
 
 Usage
 ====
@@ -123,7 +123,3 @@ d.persiana={
 	weekdayName: "Yekshanbeh",
 	year: 1376
 }
-
-
-
-
