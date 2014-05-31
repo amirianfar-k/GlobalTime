@@ -14,7 +14,6 @@ out=d.gregorian
 		day:23
 	}	
 */
-console.log()
 out=d.gregorian.year
 //	2014	
 out="today "+d.gregorian  // d.gregorian.toString() called
