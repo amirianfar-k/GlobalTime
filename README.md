@@ -5,6 +5,8 @@ Universal Calendars, gregorian julian french indian persian arabic chinese japan
 
 Usage
 ====
+
+```javascript
 d=new Δ.date()
 out=d.gregorian			
 /* 
@@ -22,6 +24,7 @@ out="today "+d.gregorian  // d.gregorian.toString() called
 d.gregorian.year=1994	  	// set year in gregorian
 d.arabic.year=1994	  		// set year in arabic
 d.persian.year=1994	  		// set year in persian
+```
 
 Calendars
 ====
@@ -45,6 +48,7 @@ gregserial        - gregorian serial number )
 jd                - Julian Day )
 mjd
 
+```javascript
 gregorian={
 	day: 22,
 	leap: "Normal year",
@@ -54,22 +58,4 @@ gregorian={
 	weekdayName: "Sunday",
 	year: 1998
 }
-
-persian
-====
-•	year: 1391
-•	month: 12
-•	day: 6
-•	weekday: 0
-•	weekdayName: "Yekshanbeh"
-•	monthName: "Esfand"
-•	leap: "Leap year"
-•	hour: "11"
-•	minute: "21"
-•	second: "09"
-•	milliseconds: 0
-•	toString(format)
-•	MonthNames: [] 
-•	weekdays: 
-
-
+```
