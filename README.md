@@ -2,7 +2,6 @@ Intro
 ====
 javascript library for date and time with all calendars, timezones and more
 Universal Calendars, gregorian julian french indian persian arabic chinese japanse mayan hebrew isoweek gregserial isoday and .... calendars
-
 Usage
 ====
 ```javascript
@@ -24,7 +23,6 @@ d.gregorian.year=1994	  	// set year in gregorian
 d.arabic.year=1994	  		// set year in arabic
 d.persian.year=1994	  		// set year in persian
 ```
-
 Calendars
 ====
 * gregorain
@@ -47,7 +45,6 @@ Calendars
 * gregserial        - gregorian serial number )
 * jd                - Julian Day )
 * mjd
-
 ```javascript
 gregorian={
 	day: 22,
